@@ -3,4 +3,6 @@ This is the public dataset about product information (PI) in Vietnamese social m
 
 Oanh Thi Tran, Tho Chi Luong. Understanding What the Users Say in Chatbots: A Case Study for the Vietnamese Language. The International Scientific Journal Engineering Applications of Artificial Intelligence (EAAI). Volume 87, January 2020, 103322 
 
+The dataset is divided into 5 folds. We share the train/test datasets for each CV test. 
+
 
